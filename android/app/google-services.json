@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363944589761",
+    "project_id": "thebuybox-68c8b",
+    "storage_bucket": "thebuybox-68c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363944589761:android:045568a737ccc0c4f2d740",
+        "android_client_info": {
+          "package_name": "com.thebuyboxstore.indigen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363944589761-n3e73fpgtv2n1322hb3j2t1hvk6or9ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTTvCHHejOpb3LyFIJLz-TbvdUsrq4kE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363944589761-n3e73fpgtv2n1322hb3j2t1hvk6or9ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363944589761-jftk55fp5cbd4r94vm91eetn76gbq1dk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thebuyboxstoreios.indigen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

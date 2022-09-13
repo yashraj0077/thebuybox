@@ -1,0 +1,159 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Our Biggest Hits",
+      "showSearch": true,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 30.0,
+      "fontSize": 22.0,
+      "textOpacity": 1.0,
+      "marginLeft": 23.0,
+      "marginRight": 20.0,
+      "marginTop": 20,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.0,
+      "radius": 50.0,
+      "items": [
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/927e781e7143c86c754deafc22592a94/ic_home.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/35dd654dd0d18b941c459f3a25744823/ic_picture.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/56x48/477fabe73bec2db33ecf04953afa953e/ic_glasses.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/f421cf267630c852c98457faa680fe78/ic_couch.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/7a4489f01e530ac2a6547e5c4f639e81/ic_flower.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/a336908ad529e594b6a618a25a009892/ic_ballon.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/0c15eb87bc71e63b7ff801383eeb2fe7/ic_broom.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/f8517fcbe3a3560a798b287f710531e8/ic_clock.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        }
+      ],
+      "line": false,
+      "columns": 4
+    },
+    {
+      "name": "New Collections",
+      "layout": "staggered",
+      "limit": 20
+    }
+  ],
+  "Setting": {
+    "StickyHeader": true,
+    "ProductListLayout": "list",
+    "MainColor": "#3FC1BE",
+    "TabBarConfig": null,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "sxnup2fgco"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "cxpztrzuji"
+    },
+    {
+      "key": "lfb2jtu6pd",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "yv55obm6n9",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "yfjng42cl8",
+      "icon": "person"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>363944589761-jftk55fp5cbd4r94vm91eetn76gbq1dk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.363944589761-jftk55fp5cbd4r94vm91eetn76gbq1dk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTaL5YlsidwS53LB4C3tjhI3WqV8WvViI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>363944589761</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thebuyboxstoreios.indigen</string>
+	<key>PROJECT_ID</key>
+	<string>thebuybox-68c8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thebuybox-68c8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:363944589761:ios:3e879648a5dd5013f2d740</string>
+</dict>
+</plist>

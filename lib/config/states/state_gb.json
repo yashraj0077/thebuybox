@@ -1,0 +1,402 @@
+[
+  {
+    "code": "BDF",
+    "name": "Bedfordshire"
+  },
+  {
+    "code": "BKM",
+    "name": "Buckinghamshire"
+  },
+  {
+    "code": "BST",
+    "name": "Bristol"
+  },
+  {
+    "code": "CAM",
+    "name": "Cambridgeshire"
+  },
+  {
+    "code": "CHS",
+    "name": "Cheshire"
+  },
+  {
+    "code": "CON",
+    "name": "Cornwall"
+  },
+  {
+    "code": "CMA",
+    "name": "Cumbria"
+  },
+  {
+    "code": "DBY",
+    "name": "Derbyshire"
+  },
+  {
+    "code": "DEV",
+    "name": "Devon"
+  },
+  {
+    "code": "DOR",
+    "name": "Dorset"
+  },
+  {
+    "code": "DUR",
+    "name": "Durham"
+  },
+  {
+    "code": "ERY",
+    "name": "East Riding of Yorkshire"
+  },
+  {
+    "code": "ESX",
+    "name": "East Sussex"
+  },
+  {
+    "code": "ESS",
+    "name": "Essex"
+  },
+  {
+    "code": "GLS",
+    "name": "Gloucestershire"
+  },
+  {
+    "code": "LND",
+    "name": "Greater London"
+  },
+  {
+    "code": "GTM",
+    "name": "Greater Manchester"
+  },
+  {
+    "code": "HAM",
+    "name": "Hampshire"
+  },
+  {
+    "code": "HEF",
+    "name": "Herefordshire"
+  },
+  {
+    "code": "HRT",
+    "name": "Hertfordshire"
+  },
+  {
+    "code": "KEN",
+    "name": "Kent"
+  },
+  {
+    "code": "IOW",
+    "name": "Isle of Wight"
+  },
+  {
+    "code": "LAN",
+    "name": "Lancashire"
+  },
+  {
+    "code": "LEC",
+    "name": "Leicestershire"
+  },
+  {
+    "code": "LIN",
+    "name": "Lincolnshire"
+  },
+  {
+    "code": "MSY",
+    "name": "Merseyside"
+  },
+  {
+    "code": "NFK",
+    "name": "Norfolk"
+  },
+  {
+    "code": "NYK",
+    "name": "North Yorkshire"
+  },
+  {
+    "code": "NTH",
+    "name": "Northamptonshire"
+  },
+  {
+    "code": "NBL",
+    "name": "Northumberland"
+  },
+  {
+    "code": "NTT",
+    "name": "Nottinghamshire"
+  },
+  {
+    "code": "OXF",
+    "name": "Oxfordshire"
+  },
+  {
+    "code": "RUT",
+    "name": "Rutland"
+  },
+  {
+    "code": "SHR",
+    "name": "Shropshire"
+  },
+  {
+    "code": "SOM",
+    "name": "Somerset"
+  },
+  {
+    "code": "STS",
+    "name": "South Yorkshire"
+  },
+  {
+    "code": "STS",
+    "name": "Staffordshire"
+  },
+  {
+    "code": "SFK",
+    "name": "Suffolk"
+  },
+  {
+    "code": "SRY",
+    "name": "Surrey"
+  },
+  {
+    "code": "TWR",
+    "name": "Tyne and Wear"
+  },
+  {
+    "code": "WAR",
+    "name": "Warwickshire"
+  },
+  {
+    "code": "WMD",
+    "name": "West Midlands"
+  },
+  {
+    "code": "WSX",
+    "name": "West Sussex"
+  },
+  {
+    "code": "WYK",
+    "name": "West Yorkshire"
+  },
+  {
+    "code": "WIL",
+    "name": "Wiltshire"
+  },
+  {
+    "code": "WOR",
+    "name": "Worcestershire"
+  },
+  {
+    "code": "ABD",
+    "name": "Aberdeenshire"
+  },
+  {
+    "code": "ANS",
+    "name": "Angus"
+  },
+  {
+    "code": "AGB",
+    "name": "Argyll and Bute"
+  },
+  {
+    "code": "CLK",
+    "name": "Clackmannanshire"
+  },
+  {
+    "code": "DGY",
+    "name": "Dumfries and Galloway"
+  },
+  {
+    "code": "EAY",
+    "name": "East Ayrshire"
+  },
+  {
+    "code": "EDU",
+    "name": "East Dunbartonshire"
+  },
+  {
+    "code": "ELN",
+    "name": "East Lothian"
+  },
+  {
+    "code": "ERW",
+    "name": "East Renfrewshire"
+  },
+  {
+    "code": "FIF",
+    "name": "Fife"
+  },
+  {
+    "code": "MLN",
+    "name": "Midlothian"
+  },
+  {
+    "code": "MRY",
+    "name": "Moray"
+  },
+  {
+    "code": "NAY",
+    "name": "North Ayrshire"
+  },
+  {
+    "code": "NLK",
+    "name": "North Lanarkshire"
+  },
+  {
+    "code": "ORK",
+    "name": "Orkney"
+  },
+  {
+    "code": "PKN",
+    "name": "Perth and Kinross"
+  },
+  {
+    "code": "RFW",
+    "name": "Renfrewshire"
+  },
+  {
+    "code": "ZET",
+    "name": "Shetland"
+  },
+  {
+    "code": "SAY",
+    "name": "South Ayrshire"
+  },
+  {
+    "code": "SLK",
+    "name": "South Lanarkshire"
+  },
+  {
+    "code": "STG",
+    "name": "Stirling"
+  },
+  {
+    "code": "WDU",
+    "name": "West Dunbartonshire"
+  },
+  {
+    "code": "WLN",
+    "name": "West Lothian"
+  },
+  {
+    "code": "ANN",
+    "name": "Antrim and Newtownabbey"
+  },
+  {
+    "code": "AND",
+    "name": "Ards and North Down"
+  },
+  {
+    "code": "ABC",
+    "name": "Armagh, Banbridge and Craigavon"
+  },
+  {
+    "code": "CCG",
+    "name": "Causeway Coast and Glens"
+  },
+  {
+    "code": "DRS",
+    "name": "Derry and Strabane"
+  },
+  {
+    "code": "FMO",
+    "name": "Fermanagh and Omagh"
+  },
+  {
+    "code": "LBC",
+    "name": "Lisburn and Castlereagh"
+  },
+  {
+    "code": "MEA",
+    "name": "Mid and East Antrim"
+  },
+  {
+    "code": "NMD",
+    "name": "Newry, Mourne and Down"
+  },
+  {
+    "code": "BGW",
+    "name": "Blaenau Gwent"
+  },
+  {
+    "code": "BGE",
+    "name": "Bridgend (Pen-y-bont ar Ogwr)"
+  },
+  {
+    "code": "CAY",
+    "name": "Caerphilly (Caerffili)"
+  },
+  {
+    "code": "CRF",
+    "name": "Cardiff (Caerdydd)"
+  },
+  {
+    "code": "CMN",
+    "name": "Carmarthenshire (Sir Gaerfyrddin)"
+  },
+  {
+    "code": "CGN",
+    "name": "Ceredigion (Sir Ceredigion)"
+  },
+  {
+    "code": "CWY",
+    "name": "Ceredigion (Conwy)"
+  },
+  {
+    "code": "DEN",
+    "name": "Denbighshire (Sir Ddinbych)"
+  },
+  {
+    "code": "FLN",
+    "name": "Flintshire (Sir y Fflint)"
+  },
+  {
+    "code": "GWN",
+    "name": "Gwynedd"
+  },
+  {
+    "code": "AGY",
+    "name": "Isle of Anglesey (Sir Ynys Môn)"
+  },
+  {
+    "code": "MTY",
+    "name": "Merthyr Tydfil (Merthyr Tudful)"
+  },
+  {
+    "code": "MON",
+    "name": "Monmouthshire (Sir Fynwy)"
+  },
+  {
+    "code": "NTL",
+    "name": "Neath Port Talbot (Castell-nedd Port Talbot)"
+  },
+  {
+    "code": "NWP",
+    "name": "Newport (Casnewydd)"
+  },
+  {
+    "code": "PEM",
+    "name": "Pembrokeshire (Sir Benfro)"
+  },
+  {
+    "code": "POW",
+    "name": "Powys"
+  },
+  {
+    "code": "RCT",
+    "name": "Rhondda, Cynon, Taff (Rhondda, Cynon, Taf)"
+  },
+  {
+    "code": "SWA",
+    "name": "Swansea (Abertawe)"
+  },
+  {
+    "code": "TOF",
+    "name": "TOF (Tor-faen)"
+  },
+  {
+    "code": "VGL",
+    "name": "Vale of Glamorgan, The (Bro Morgannwg)"
+  },
+  {
+    "code": "WRX",
+    "name": "Wrexham (Wrecsam)"
+  }
+]

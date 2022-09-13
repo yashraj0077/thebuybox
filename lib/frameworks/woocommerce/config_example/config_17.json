@@ -1,0 +1,190 @@
+{
+  "HorizonLayout": [
+    {
+      "title": " ",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "400",
+      "height": 10.0,
+      "fontSize": 30.0,
+      "textOpacity": 1.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": false,
+      "showLogo": false
+    },
+    {
+      "hideHeader": false,
+      "showSearch": true,
+      "fontWeight": "500",
+      "rotate": [
+        "FluxStore Magento",
+        "FluxStore OpenCart",
+        "FluxStore Woocommerce"
+      ],
+      "type": "typer",
+      "height": 60.0,
+      "marginLeft": 20.0,
+      "marginRight": 0.0,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "fontSize": 26.0,
+      "textOpacity": 1.0,
+      "textColor": null,
+      "layout": "header_text"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 9.0,
+      "items": [
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/53560c2f58ee8847ecb8bbad4582a9e0/i_package.png",
+          "showText": true,
+          "title": "Demo",
+          "description": "New arrival "
+        },
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/a804eb95a5c378af5f7d1b99e6227a0f/i_shopping.png",
+          "showText": true,
+          "title": "Cloud",
+          "description": "New arrival"
+        },
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/79ed85962420d3bfab1c00dcb8c91c54/i_snow.png",
+          "showText": true,
+          "title": "Cart Icon",
+          "description": "New arrival"
+        },
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/897b5ad5dd22b283cabfc60ccdbd48c0/i_truck.png",
+          "showText": true,
+          "title": "Truck",
+          "description": "New arrival"
+        },
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/73c8510f48562f3ba8a90ca5cab3e5ed/i-air.png",
+          "showText": true,
+          "title": "Airdop",
+          "description": "New arrival"
+        },
+        {
+          "category": null,
+          "image": "https://trello-attachments.s3.amazonaws.com/60a62a9bca5053572a669dee/100x100/b6cf667f1f7c036dc82a111c16f4ce7f/i_instagram.png",
+          "showText": true,
+          "title": "Camera",
+          "description": "New arrival"
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "paddingX": 20.0,
+      "paddingY": 0.0,
+      "marginX": 4.0,
+      "marginY": 4.0,
+      "columns": 4,
+      "itemSize": {
+        "width": 299.1964095076841,
+        "height": 159.70748439386767
+      }
+    },
+    {
+      "name": "Our Blog Posts",
+      "layout": "blog"
+    }
+  ],
+  "Setting": {
+    "ProductDetail": "simpleType",
+    "StickyHeader": false,
+    "MainColor": "#3FC1BE",
+    "TabBarConfig": null,
+    "ProductListLayout": "list",
+    "FontHeader": "ABeeZee",
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "ewixezpjcm"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hrfkott8ki"
+    },
+    {
+      "key": "9b00u9gfog",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "x1xffxu697",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "35v8pcv3ny",
+      "icon": "person"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "Background": {
+    "color": "#FFC008",
+    "image": null,
+    "height": 0.25,
+    "type": null
+  }
+}

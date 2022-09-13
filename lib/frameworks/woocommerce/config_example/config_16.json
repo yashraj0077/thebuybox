@@ -1,0 +1,102 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Most popular, \ntrending fashion ",
+      "showSearch": true,
+      "hideHeader": false,
+      "fontWeight": "900",
+      "height": 62.0,
+      "fontSize": 30.0,
+      "textOpacity": 1.0,
+      "marginLeft": 22.0,
+      "marginRight": 0.0,
+      "marginTop": 22.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "name": "",
+      "layout": "largeCardHorizontalListItems",
+      "category": null,
+      "imageWidth": 170.0,
+      "imageBorder": 6.0
+    }
+  ],
+  "Setting": {
+    "FontHeader": "ABeeZee",
+    "TabBarConfig": null,
+    "MainColor": "#3FC1BE",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "dn8ejjaihg"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "gnak5n5jvu"
+    },
+    {
+      "key": "k3ufp1qm7i",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "44xem6l85m",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "4seb4ugn4t",
+      "icon": "person"
+    }
+  ],
+  "Drawer": {
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": true
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ],
+    "logo": "assets/images/logo.png"
+  },
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Woman Collections",
+    "page": 3,
+    "isVertical": true,
+    "key": "n2mzle4qij"
+  }
+}

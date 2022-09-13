@@ -1,0 +1,122 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Custom Banner",
+      "showSearch": true,
+      "hideHeader": false,
+      "fontWeight": "700",
+      "height": 60.0,
+      "fontSize": 25.0,
+      "textOpacity": 1.0,
+      "marginLeft": 34.0,
+      "marginRight": 30.0,
+      "marginTop": 10.0,
+      "marginBottom": 10.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "marginTop": 0.0,
+      "marginBottom": 0.0,
+      "marginLeft": 0.0,
+      "marginRight": 0.0,
+      "height": 0.35,
+      "fit": "fitWidth",
+      "items": [
+        {
+          "image": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "padding": 14.9
+        },
+        {
+          "image": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "padding": 14.9
+        },
+        {
+          "image": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "padding": 14.9
+        }
+      ],
+      "autoPlay": false,
+      "design": "custom",
+      "radius": 30.4,
+      "intervalTime": 4
+    },
+    {
+      "name": "Woman Collections",
+      "image": "",
+      "layout": "threeColumn"
+    }
+  ],
+  "Setting": {
+    "StickyHeader": true,
+    "ProductListLayout": "list",
+    "MainColor": "#3FC1BE",
+    "TabBarConfig": null,
+    "ProductDetail": "simpleType",
+    "FontHeader": "ABeeZee",
+    "ShowChat": true
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "u6bbgbflu6"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "x4jbmz4i07"
+    },
+    {
+      "key": "b41fsnppdg",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "zseqjzgd4z",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "5fjfol669r",
+      "icon": "person"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "show": true,
+        "type": "login"
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "HorizonLayout": [
+    {
+      "title": "Shop by Categories",
+      "showSearch": false,
+      "hideHeader": false,
+      "fontWeight": "700",
+      "height": 36.0,
+      "fontSize": 22.0,
+      "textOpacity": 1.0,
+      "marginLeft": 24.0,
+      "marginRight": 0.0,
+      "marginTop": 19.0,
+      "marginBottom": 0.0,
+      "layout": "header_text",
+      "textColor": null
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "size": 1.0,
+      "radius": 0.0,
+      "items": [
+        {
+          "category": null,
+          "image": "https://images.unsplash.com/photo-1586363090844-099253d6a1cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=450&q=80",
+          "showText": false
+        },
+        {
+          "category": null,
+          "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=517&q=80",
+          "showText": false
+        },
+        {
+          "category": null,
+          "image": "https://images.unsplash.com/photo-1516763296043-f676c1105999?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=526&q=80",
+          "showText": false
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 3.0,
+      "marginBottom": 0.0,
+      "paddingX": 4.0,
+      "paddingY": 8.0,
+      "marginX": 4.0,
+      "marginY": 8.0,
+      "itemSize": {
+        "width": 453.76947630490764,
+        "height": 91.40432051924712
+      }
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType",
+    "FontHeader": "ABeeZee",
+    "TabBarConfig": null
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "safuid02s4"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "qklg4cw1um"
+    },
+    {
+      "key": "ymdhhjil09",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "eztfhrnzp8",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "n7t2urvznn",
+      "icon": "person"
+    }
+  ],
+  "Drawer": {
+    "logo": "assets/images/logo.png",
+    "items": [
+      {
+        "show": true,
+        "type": "home"
+      },
+      {
+        "show": true,
+        "type": "blog"
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "type": "category",
+        "show": true
+      }
+    ]
+  },
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Collections",
+    "isVertical": true,
+    "key": "xhu7cenedt",
+    "page": 1
+  }
+}
